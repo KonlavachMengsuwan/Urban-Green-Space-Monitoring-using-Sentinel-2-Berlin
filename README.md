@@ -17,7 +17,7 @@ Urban green spaces are crucial for the environmental health and quality of life 
 ### NDVI Calculation
 
 NDVI is calculated using the following formula:
-\[ {NDVI} = \frac{(NIR - Red)}{(NIR + Red)} \]
+[ NDVI = (NIR - Red)/(NIR + Red) ]
 
 Where:
 - **NIR** is the Near Infrared band (B8)
