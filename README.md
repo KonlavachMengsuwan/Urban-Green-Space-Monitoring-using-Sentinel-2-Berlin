@@ -179,7 +179,7 @@ Export.image.toDrive({
   region: berlin,
   maxPixels: 1e9
 });
-
+```
 # Berlin NDVI
 ![image](https://github.com/user-attachments/assets/64d790f0-c678-48e2-8bc5-5c9e8a9dd9f4)
 
