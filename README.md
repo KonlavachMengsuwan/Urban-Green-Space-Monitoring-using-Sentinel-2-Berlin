@@ -17,7 +17,7 @@ Urban green spaces are crucial for the environmental health and quality of life 
 ### NDVI Calculation
 
 NDVI is calculated using the following formula:
-[ NDVI = (NIR - Red)/(NIR + Red) ]
+ NDVI = (NIR - Red)/(NIR + Red) 
 
 Where:
 - **NIR** is the Near Infrared band (B8)
@@ -179,3 +179,20 @@ Export.image.toDrive({
   region: berlin,
   maxPixels: 1e9
 });
+
+# Berlin NDVI
+![image](https://github.com/user-attachments/assets/64d790f0-c678-48e2-8bc5-5c9e8a9dd9f4)
+
+# Berlin Green area
+![image](https://github.com/user-attachments/assets/4a6bf730-c57a-4c0a-b2d1-27fde87cea7e)
+
+# Urban Green area
+![image](https://github.com/user-attachments/assets/1d7e5f48-bc54-4d45-adeb-b84a7d5194d6)
+
+# NDVI Histogram
+![image](https://github.com/user-attachments/assets/dbcbd584-1f59-40b8-a556-b6837a76fa87)
+
+# Urban Green VS Non-Green Areas
+![image](https://github.com/user-attachments/assets/920c5cb7-83ad-40a6-8dd4-a342ce6a2cba)
+
+
